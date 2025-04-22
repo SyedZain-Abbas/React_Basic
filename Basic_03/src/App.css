@@ -1,0 +1,16 @@
+
+
+
+.main{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+ 
+}
+
+.item{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid greenyellow;
+}
